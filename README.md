@@ -4,7 +4,7 @@ Esta é uma pagina do projeto stats preview card component main, criada para o e
 
 O projeto foi desenvolvido por:
 
-*Raphael fernando
+* Raphael fernando
 
 ###Prévia
 
