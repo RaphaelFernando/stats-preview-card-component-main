@@ -69,6 +69,11 @@ Class image:
     background-repeat: no-repeat;
 }
 
+/*
+Class image-overlay:
+    Foi definido tamanho e altura em % para se ajustar aos tamanhos
+    e tambem definido uma coloração roxa para o fundo da imagem
+*/
 .image-overlay {
     border-radius: 1.5rem 1.5rem 0 0;
     width: 100%;
@@ -76,6 +81,12 @@ Class image:
     background-color: rgba(102, 26, 150, 0.6);
 }
 
+
+/*
+    em information foi usado space-evenly para que todos os itens sejam distribuidos igualmente em eixo de coluna com
+    a ajuda do flex-flow: column utilizando flez para manter o layyout flexivel.
+
+*/
 .information {
     height: 66.6%;
     display: flex;
