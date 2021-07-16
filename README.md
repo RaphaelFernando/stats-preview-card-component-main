@@ -6,6 +6,6 @@ O projeto foi desenvolvido por:
 
 * Raphael fernando
 
-###Prévia
+### Prévia
 
 <img src="design/desktop-design.jpg" alt="">
